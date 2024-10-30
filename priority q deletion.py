@@ -1,10 +1,9 @@
 # -*- coding: utf-8 -*-
 """
-Created on Mon Aug 28 09:41:00 2023
+Created on Thu Aug 31 12:52:19 2023
 
-@author: DELL
+@author: msi
 """
-
 
 def pr_Q(Q,val):
      Q.append(val)
@@ -28,4 +27,3 @@ pr_Q(Q,(3,'D'))
 pr_Q(Q,(4,'B'))  
 
 D_prQ(Q)
-        
